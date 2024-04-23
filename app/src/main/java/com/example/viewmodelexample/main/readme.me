@@ -1,0 +1,6 @@
+## Ejemplo de utilización de una Pantalla principal y un ViewModel. De esta manera, la UI no interactúa con el estado
+siendo este de exclusiva responsabilidad del ViewModel. Es importante destacar que se crean clases para la mejor manipulacion y
+comprensión del ejemplo.
+
+#ADD: Se utiliza un ejemplo de interacción entre UI y el estado mediante el ViewModel, a través de una función que
+elimina los libros listados al clickearlos.
